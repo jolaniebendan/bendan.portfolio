@@ -1,0 +1,120 @@
+a {
+  text-decoration: none;
+}
+
+.main-container {
+  background: white;
+}
+
+.box {
+  width: 100vw;
+  margin-top: 0%;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+#projects {
+  background: #53535316;
+}
+
+.fs-10 {
+  font-size: 8rem;
+  line-height: 1;
+}
+
+.bold-700 {
+  font-weight: 700;
+}
+
+.btn:hover {
+  box-shadow: none;
+  transition: ease-in-out 0.5s;
+}
+
+.text-purple {
+  color: purple;
+}
+
+.transform-image {
+  width: 50%;
+  height: auto;
+  transition: transform 0.2s ease;
+}
+
+.transform-image:hover {
+  transform: scale(1.05);
+}
+
+
+.transform-image {
+  width: 70%;
+  transition: transform 1.5s ease-in-out;
+}
+
+.transform-image:hover {
+  transform: scale(1.2);
+}
+.del {
+  text-align: justify;
+}
+.abouts {
+  font-size: 100px;
+}
+.transform-images {
+  width: 40vw;
+  height: 25vw;
+}
+.scale {
+  transition: transform 1.5s ease-in-out;
+}
+.scale:hover {
+  transform: scale(1.2);
+}
+
+.f{
+font-size: 12px;
+}
+
+.card{
+  border-radius: 10px;
+}
+.cardss{
+  margin-left: 4rem;
+}
+
+
+.small-picture {
+  padding: 5px; /* Reduce padding to make them closer */
+  margin: 0;
+ 
+}
+
+.social-links {
+  margin-bottom: 20px;
+}
+
+.social-links h4 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.social-links ul {
+  padding-left: 0;
+}
+
+.social-links ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+.social-links ul li a {
+  text-decoration: none;
+  color: #111112;
+}
+
+.social-links ul li a:hover {
+  text-decoration: underline;
+}
+
